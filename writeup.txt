@@ -1,0 +1,7 @@
+Write up for Kaitlin Sloan and Voona Praneetha. 
+For what went well, our implimication for the board and adding the sankes and ladders was done quickly and efficently. 
+If we had a bigger board for the game then there would be more snakes and ladders and it isnt an optimal way to implement it using the switch statements and having each
+turn be in main instead of in its own function. Also a lot of main is very repetitive with both  player 1 and player 2's turns being almost identical. Our initial plan to 
+implement the game didnt go as plan as we ended up not needing two of the functions we were initially going to use. 
+Through this project we learned how to make sometimes your intial ideas don't work completely and we learnded how to modify it. 
+We should get full discrentionary points because we made it user interactive and made a clear board representation.
