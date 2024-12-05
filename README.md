@@ -1,5 +1,5 @@
 # Final-Capstone
-COSC202 Capstone Project for Dr. Emerich
+COSC202 Capstone Project for Dr. Emrich
 
 
 This Program is a simple Snake and Ladders game. The board is a 5x5 board with three snakes and three ladders. 
